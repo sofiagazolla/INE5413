@@ -1,6 +1,6 @@
 <h1 align="center">INE5413 · Grafos</h1>
 
-Atividades realizadas na disciplina de Grafos, do curso de Ciências da Computação na UFSC.
+Atividades realizadas na disciplina de Grafos, no quarto semestre do curso de Ciências da Computação na UFSC.
 
 ## Competências desenvolvidas
 
